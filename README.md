@@ -242,15 +242,7 @@ Curated collection of trained machine learning models including image classifica
 
 ---
 
-## 🎮 GitHub Activity Game
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<div align="center">
 
 ### 💭 Final Thoughts
 ```ascii
@@ -271,6 +263,13 @@ Curated collection of trained machine learning models including image classifica
 [![](https://visitcount.itsvg.in/api?id=shivamsingh-007&icon=5&color=6)](https://visitcount.itsvg.in)
 
 </div>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<div align="center">
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
