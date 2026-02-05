@@ -1,172 +1,19 @@
-
-<div align="center">
-
-# 🌌 SHIVAM SINGH
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Cybersecurity+Enthusiast+%7C+Blockchain+Builder;Building+Technology+That+Changes+Lives" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-singh-a58364384)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam.singh.koyad007@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=shivamsingh-007&color=blueviolet&style=for-the-badge)](https://github.com/shivamsingh-007)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class ShivamSingh:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Building the Future 🚀"
-        self.focus = ["AI/ML", "Cybersecurity", "Blockchain"]
-        self.mindset = "Execution > Excuses"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something epic.")
-🔥 What Drives Me:
-💡 Turning ideas into real-world products that ship, scale, and solve problems
-🛠️ Learning by building, breaking, and iterating until it's perfect
-🎯 Writing clean code with smart architecture and meaningful impact
-⚡ Consistency over motivation. Execution over noise.
-🌟 Current Focus:
-🤖 Building AI/ML systems that actually work in production
-🛡️ Crafting cybersecurity tools & automation frameworks
-⛓️ Exploring blockchain architecture & decentralized protocols
-🌐 Shipping full-stack applications with seamless UX
-🎯 Long-term Mission:
-To become a high-impact engineer building technology that changes lives, not just ships features.
-🚀 Featured Projects
-�
-
-�
-￼
-�
-
-🧠 AI-Powered Sentiment Analyzer
-Real-time sentiment analysis using transformer models with 94% accuracy
-�
-�
-�
-�
-�
-🔐 CyberShield - Network Security Scanner
-Automated vulnerability detection tool with ML-based threat classification
-�
-�
-�
-�
-⛓️ BlockVault - Decentralized File Storage
-IPFS-based encrypted storage with Solidity smart contracts
-�
-�
-�
-�
-🎯 ComputerVision Object Tracker
-Real-time multi-object detection and tracking using YOLO + DeepSORT
-�
-�
-�
-�
-🤖 MLOps Pipeline Automation
-End-to-end ML model deployment with monitoring and auto-retraining
-�
-�
-�
-�
-�
-￼ 
+# 💫 About Me:
+👋 Hey there! I'm Shivam Singh<br><br>A passionate developer building at the crossroads of AI/ML, Cybersecurity, and Blockchain.<br>I don’t just learn technology — I build with it, experiment with it, and push it beyond comfort zones.<br><br>💡 I believe in:<br><br>Turning ideas into real-world products<br><br>Learning by building, breaking, and improving<br><br>Solving problems with clean code and smart design<br><br>🔭 Currently working on projects involving:<br><br>🤖 Artificial Intelligence & Machine Learning<br><br>🛡️ Cybersecurity tools & automation<br><br>⛓️ Blockchain concepts & decentralized systems<br><br>🌐 Full-stack applications<br><br>⚡ My mindset:<br><br>Consistency over motivation.<br>Execution over excuses.<br>Impact over noise.<br><br>🎯 Long-term goal:<br>To become a high-impact engineer building technology that actually changes lives, not just ships features.
 
 
-🛠️ Tech Arsenal
-�
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-singh-a58364384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivam.singh.koyad007@gmail.com) 
 
-💻 Languages
-�
-�
-�
-�
-�
-�
-�
-�
-🤖 AI/ML Stack
-�
-�
-�
-�
-�
-�
-�
-�
-⚙️ Backend & Databases
-�
-�
-�
-�
-🔧 DevOps & Tools
-�
-�
-�
-�
-�
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shivamsingh-007&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shivamsingh-007&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsingh-007&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-�
-￼￼ ￼ ￼ ￼ ￼ 
-
-
-📊 GitHub Analytics
-�
-
-�
-￼ ￼
-�
-￼ ￼
-�
-
-�
-￼ 
-
-
-🏆 GitHub Trophies
-�
-
-�
-�
-
-✍️ Random Dev Quote
-�
-
-�
-�
-
-🎮 GitHub Activity Game
-�
-￼ 
-
-
-�
-
-💭 Final Thoughts
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "The best time to plant a tree was 20 years ago.           ║
-║   The second best time is now."                              ║
-║                                                               ║
-║   Building one commit at a time. 🚀                          ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-�
-￼
-⭐️ From shivamsingh-007 | Let's Build Something Epic Together!
-�
-�
-```
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
