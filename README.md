@@ -2,7 +2,7 @@
 
 # 🌌 SHIVAM SINGH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+AI/ML +Enthusiast+%7C+Blockchain+Builder;Building+Technology+That+Changes+Lives" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+AI/ML+Enthusiast+%7C+Blockchain+Builder;Building+Technology+That+Changes+Lives" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
