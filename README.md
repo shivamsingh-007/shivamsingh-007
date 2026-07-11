@@ -75,12 +75,9 @@ Currently building **loops, Agents, contributing to C4GT, and Agentic Systems**.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg?v=2" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg?v=2" width="520" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./avi-ascii.svg?v=3" width="700" alt="ASCII portrait" />
+</p>
 
 # ■ My GitHub Activity Game
 <p align="center">
