@@ -77,8 +77,8 @@ Currently building **loops, Agents, contributing to C4GT, and Agentic Systems**.
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="520" alt="Experience, stack, highlights" /></td>
+<td valign="top"><img src="./avi-ascii.svg?v=2" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg?v=2" width="520" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
 
