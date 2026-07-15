@@ -1,12 +1,3 @@
-<div align="center">
-
-# 🌌 SHIVAM SINGH
-
-
-</div>
-
----
-
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Shivam Singh — AI Engineer">
 </p>
