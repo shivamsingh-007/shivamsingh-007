@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="380" viewBox="0 0 1200 380"
+     role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Shivam Singh — AI Engineer</title>
+  <desc id="hero-desc">AI Engineer building native developer tools, coding agents, multi-agent orchestration, and open-source infrastructure.</desc>
+
+  <defs>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#1a0a0a"/>
+    </linearGradient>
+    <linearGradient id="accent-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C41E3A"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+    <clipPath id="poster-clip">
+      <rect x="760" y="30" width="380" height="320" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="380" rx="22" fill="url(#bg-grad)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.04" stroke="#C41E3A" stroke-width="0.5" fill="none">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="120" x2="1200" y2="120"/>
+    <line x1="0" y1="180" x2="1200" y2="180"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="200" y1="0" x2="200" y2="380"/>
+    <line x1="400" y1="0" x2="400" y2="380"/>
+    <line x1="600" y1="0" x2="600" y2="380"/>
+    <line x1="800" y1="0" x2="800" y2="380"/>
+    <line x1="1000" y1="0" x2="1000" y2="380"/>
+  </g>
+
+  <!-- Top accent line -->
+  <rect x="56" y="30" width="120" height="3" rx="1.5" fill="url(#accent-line)"/>
+
+  <!-- Category label -->
+  <text x="56" y="62" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="13" font-weight="500" fill="#FF6B6B" letter-spacing="2.5">
+    AI ENGINEER
+  </text>
+
+  <!-- Name -->
+  <text x="56" y="118" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="52" font-weight="700" fill="#FFF5E1" letter-spacing="-1">
+    Shivam Singh
+  </text>
+
+  <!-- Tagline -->
+  <text x="56" y="158" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="18" font-weight="400" fill="#D4A574">
+    Building AI-native developer tools, coding agents,
+  </text>
+  <text x="56" y="182" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="18" font-weight="400" fill="#D4A574">
+    multi-agent orchestration, and open-source infrastructure.
+  </text>
+
+  <!-- Stats row -->
+  <g transform="translate(56 220)">
+    <!-- Stat 1 -->
+    <rect x="0" y="0" width="130" height="56" rx="8" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="65" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="20" font-weight="700" fill="#C41E3A" text-anchor="middle">50+</text>
+    <text x="65" y="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+          font-size="11" fill="#8B4513" text-anchor="middle">OSS PRs Merged</text>
+
+    <!-- Stat 2 -->
+    <rect x="148" y="0" width="130" height="56" rx="8" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="213" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="20" font-weight="700" fill="#FF6B6B" text-anchor="middle">4+</text>
+    <text x="213" y="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+          font-size="11" fill="#8B4513" text-anchor="middle">Active Projects</text>
+
+    <!-- Stat 3 -->
+    <rect x="296" y="0" width="130" height="56" rx="8" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="361" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="20" font-weight="700" fill="#FFD700" text-anchor="middle">C4GT</text>
+    <text x="361" y="42" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+          font-size="11" fill="#8B4513" text-anchor="middle">'26 Contributor</text>
+  </g>
+
+  <!-- Tech tags -->
+  <g transform="translate(56 300)">
+    <rect x="0" y="0" width="72" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="36" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">Python</text>
+
+    <rect x="82" y="0" width="60" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="112" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">C++</text>
+
+    <rect x="152" y="0" width="92" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="198" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">TypeScript</text>
+
+    <rect x="254" y="0" width="76" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="292" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">Next.js</text>
+
+    <rect x="340" y="0" width="76" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="378" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">FastAPI</text>
+
+    <rect x="426" y="0" width="80" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="466" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">Docker</text>
+
+    <rect x="516" y="0" width="52" height="28" rx="6" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="542" y="18" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="11" fill="#D4A574" text-anchor="middle">GCP</text>
+  </g>
+
+  <!-- Agent circuit motif (top right) -->
+  <g transform="translate(680 40)" opacity="0.15" stroke="#C41E3A" stroke-width="1.5" fill="none">
+    <circle cx="0" cy="0" r="4" fill="#C41E3A"/>
+    <circle cx="60" cy="30" r="4" fill="#FF6B6B"/>
+    <circle cx="30" cy="70" r="4" fill="#FFD700"/>
+    <circle cx="90" cy="80" r="4" fill="#C41E3A"/>
+    <circle cx="50" cy="120" r="4" fill="#FF6B6B"/>
+    <line x1="0" y1="0" x2="60" y2="30"/>
+    <line x1="60" y1="30" x2="30" y2="70"/>
+    <line x1="30" y1="70" x2="90" y2="80"/>
+    <line x1="60" y1="30" x2="50" y2="120"/>
+    <line x1="90" y1="80" x2="50" y2="120"/>
+  </g>
+
+  <!-- Poster image -->
+  <image href="./poster.jpg" x="760" y="30" width="380" height="320"
+         clip-path="url(#poster-clip)" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Bottom accent -->
+  <rect x="56" y="360" width="40" height="2" rx="1" fill="#C41E3A" opacity="0.5"/>
+</svg>

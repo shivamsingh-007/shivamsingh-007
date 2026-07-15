@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="140" viewBox="0 0 1200 140"
+     role="img" aria-labelledby="sec-proj-title">
+  <title id="sec-proj-title">Projects section header</title>
+
+  <defs>
+    <linearGradient id="proj-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C41E3A"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" rx="14" fill="#0a0a0a"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="140" rx="2" fill="url(#proj-grad)"/>
+
+  <!-- Icon: terminal prompt -->
+  <g transform="translate(48 50)">
+    <rect x="0" y="0" width="44" height="44" rx="10" fill="#1a1010" stroke="#3a1515" stroke-width="1"/>
+    <text x="22" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+          font-size="20" fill="#C41E3A" text-anchor="middle" font-weight="700">&gt;_</text>
+  </g>
+
+  <!-- Section number -->
+  <text x="112" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,monospace"
+        font-size="12" fill="#3a1515" letter-spacing="1">01</text>
+
+  <!-- Section title -->
+  <text x="112" y="96" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="32" font-weight="700" fill="#FFF5E1" letter-spacing="-0.5">
+    What I Build
+  </text>
+
+  <!-- Subtle descriptor -->
+  <text x="440" y="96" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif"
+        font-size="14" fill="#8B4513">
+    AI-native tools, coding agents, multi-agent orchestration
+  </text>
+
+  <!-- Right decorative dots -->
+  <g transform="translate(1120 50)" opacity="0.25">
+    <circle cx="0" cy="0" r="3" fill="#C41E3A"/>
+    <circle cx="16" cy="0" r="3" fill="#FF6B6B"/>
+    <circle cx="32" cy="0" r="3" fill="#FFD700"/>
+  </g>
+</svg>
