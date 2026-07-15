@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
      width="1200" height="380" viewBox="0 0 1200 380"
      role="img" aria-labelledby="hero-title hero-desc">
-  <title id="hero-title">Shivam Singh — AI Engineer</title>
+  <title id="hero-title">Shivam Singh â€” AI Engineer</title>
   <desc id="hero-desc">AI Engineer building native developer tools, coding agents, multi-agent orchestration, and open-source infrastructure.</desc>
 
   <defs>
