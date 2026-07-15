@@ -68,8 +68,3 @@ Currently building **loops, Agents, contributing to C4GT, and Agentic Systems**.
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# ■ My GitHub Activity Game
-<p align="center">
-  <img src="assets/space-shooter.gif" />
-</p>
