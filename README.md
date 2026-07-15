@@ -8,7 +8,8 @@
 ---
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Shivam Singh — AI Engineer building developer tools and multi-agent systems">
+  <img src="./assets/hero.svg" width="60%" alt="Shivam Singh — AI Engineer">
+  <img src="./assets/poster.jpg" width="36%" alt="The Mentalist" style="border-radius:14px;vertical-align:middle;">
 </p>
 
 <table width="100%">
