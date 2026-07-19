@@ -22,7 +22,7 @@ I build **AI-native developer tools, coding agents, Multi-agent & Agentic System
 ▸ **C4GT'26** · **Quiz Frontend** · a generic quiz engine for serving different question types (MCQ, subjective, images, audio) in a mobile-friendly webapp<br/>
 ▸ **50+ merged OSS PRs** across open-source projects<br/>
 
-Currently building **loops, Agents, contributing to C4GT, and Agentic Systems**.
+Currently  building **loops, Agents, contributing to C4GT, and Agentic Systems**.
 <p>
   <strong>Tech Stack ⚙️</strong>
 </p>
