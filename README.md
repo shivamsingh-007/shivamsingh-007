@@ -18,7 +18,7 @@
 I build **AI-native developer tools, coding agents, Multi-agent & Agentic Systems, open-source infrastructure, and Harness systems.**
 
 ▸ Building **Sharp Harness**, **Nova Harness**, **Nexus** multi-agent orchestration, **Scout** agentic LOOP<br/>
-▸ Open-source contributor in **Kubeflow/notebook**, **Ray**, **T3MP3ST** and more<br/>
+▸ Open-source contributor in **OpenSRE**, **Ray**, **T3MP3ST** and more<br/>
 ▸ **C4GT'26** · **Quiz Frontend** · a generic quiz engine for serving different question types (MCQ, subjective, images, audio) in a mobile-friendly webapp<br/>
 ▸ **50+ merged OSS PRs** across open-source projects<br/>
 
