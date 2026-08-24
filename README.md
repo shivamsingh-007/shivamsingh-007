@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Shivam Singh — AI Engineer">
+  <img src="./assets/Gemini_Generated_Image_penxdlpenxdlpenx.png" width="100%" alt="Shivam Singh — AI Engineer">
 </p>
 
 <table width="100%">
