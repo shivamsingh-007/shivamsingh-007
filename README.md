@@ -20,7 +20,7 @@ I build **AI-native developer tools, coding agents, Multi-agent & Agentic System
 ▸ Building **Sharp Harness**, **Nova Harness**, **Nexus** multi-agent orchestration, **Scout** agentic LOOP<br/>
 ▸ Open-source contributor in **OpenSRE**, **Ray**, **T3MP3ST** and more<br/>
 ▸ **C4GT'26** · **PlanetRead** · literacy and education tech (e.g., BookBox, Same Language Subtitling<br/>
-▸ **15+ merged OSS PRs** across open-source projects<br/>
+▸ **25+ merged OSS PRs** across open-source projects<br/>
 
 Currently  building **loops, Agents and Agentic Systems**.
 <p>
